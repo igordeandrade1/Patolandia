@@ -9,6 +9,7 @@ public class Duck {
 	
 	public void swim() {
 		 System.out.println("Swiming chuplak chuplak");
+		 System.out.println("GitHub");
 	}
 	
 	public void fly() {
